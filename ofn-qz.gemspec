@@ -26,7 +26,6 @@ Gem::Specification.new do |spec|
   end
   spec.bindir        = "exe"
   spec.require_paths = ["lib"]
-  spec.add_dependency "railties", "~> 3.1"
 
   spec.add_development_dependency "bundler", "~> 1.13"
   spec.add_development_dependency "rake", "~> 10.0"
